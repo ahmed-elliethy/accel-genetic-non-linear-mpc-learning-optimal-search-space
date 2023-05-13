@@ -1,1 +1,1 @@
-# accel-genetic-non-linear-MPC-learning-optimal-search-space
+# Accelerating genetic optimization of nonlinear model predictive control by learning optimal search space size
