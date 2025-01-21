@@ -66,7 +66,7 @@ The produced figures display the average computational time ,convergence percent
 @article{mostafa2023accelerating,
  title={Accelerating genetic optimization of nonlinear model predictive control by learning optimal search space size},
  author={Mostafa, Eslam and Aly, Hussein A and Elliethy, Ahmed},
- journal={arXiv preprint arXiv:2305.08094},
- year={2023}
+ journal={JOURNAL OF CONTROL AND DECISION},
+ year={2025}
 }
 ```
